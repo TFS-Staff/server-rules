@@ -17,7 +17,7 @@ _ _
 **4** - Spoilers must be properly spoiler-tagged stating the series name and what season/episode the spoiler is from. This includes changes in character designs and events such as timeskips, character deaths, etc. in all channels.
 __**Instructions on how to spoiler tag a message and image**__
 _ _
-Add |\| around the text you would want to spoiler tag. For images, if you're on mobile, rename the image file that would start with SPOILER_, for PC you have to mark it as a spoiler before sending it.
+Add \|\| around the text you would want to spoiler tag. For images, if you're on mobile, rename the image file that would start with SPOILER\_, for PC you have to mark it as a spoiler before sending it.
 For example:
 _ _
 > Bakemonogatari E15 spoilers ||Hanekawa is best girl.||

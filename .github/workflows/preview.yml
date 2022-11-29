@@ -1,0 +1,23 @@
+name: Preview
+
+on:
+  push:
+    branches:
+      - 'master'
+    paths:
+      - '**.md'
+      - '!README.md'
+
+jobs:
+  post_preview:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Upload File Action
+        uses: JantHsueh/upload-file-action@1.0
+        with:
+          url: https://tfs-bot.fm-96.at/post/405540621005357068
+          forms: '{"jwt":"${{ secrets.POST_JWT }}", "clear":"true"}'
+          fileForms: '{"1046468799970422794":"rules.md", "1046468871885959288":"rules-and-info.md"}'

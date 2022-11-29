@@ -3,9 +3,9 @@ __**Rules**__
 
 Things we consider not being respectful:
     **1a** - Being an asshole. It's okay to joke around (even about dark subject matters), but if you hurt other people's feelings you're going too far. **[Yellow]**
-    **1b** - Sexism/racism/homophobia/transphobia/any form of discrimination is strictly not allowed. This includes but is not limited to the use of slurs and their variations. Examples include ||Nigga, Faggot, Retard|| **[Red]**
-    **1c** - If you have a problem with a member that doesn't concern the server -> DM exist **[Green]**
-    **1d** - Do not needlessly ping roles and do not abuse pingable roles. They should only be used when necessary and for their proper purpose. Alternatively, do not continuously ping a member if they’ve already told you they don’t want to be pinged. **[Green]**
+    **1b** - Sexism/racism/homophobia/transphobia/any form of discrimination is strictly not allowed. This includes but is not limited to the use of slurs and their variations. Examples include ||Nigga, Faggot, Retard||. **[Red]**
+    **1c** - If you have a problem with a member that doesn't concern the server -> DM exist. **[Green]**
+    **1d** - Do not needlessly ping roles and do not abuse pingable roles. They should only be used when necessary and for their proper purpose. Alternatively, do not continuously ping a member if they've already told you they don't want to be pinged. **[Green]**
 _ _
 
 **2** - No nsfw content is allowed on this server outside nsfw channels. It is up to staff's discretion what counts as nsfw or not. If you are unsure if something is nsfw or not, check with someone before sending it to the server. Spoiler tagging something does not make it exempt from this rule. **[Yellow]**
@@ -17,7 +17,7 @@ _ _
 **4** - Spoilers must be properly spoiler-tagged stating the series name and what season/episode the spoiler is from. This includes changes in character designs and events such as timeskips, character deaths, etc. in all channels.
 __**Instructions on how to spoiler tag a message and image**__
 
-Add |\| around the text you would want to spoiler tag. For images, if you're on mobile, rename the image file that would start with SPOILER__, for PC you have to mark it as a spoiler before sending it.
+Add |\| around the text you would want to spoiler tag. For images, if you're on mobile, rename the image file that would start with SPOILER_, for PC you have to mark it as a spoiler before sending it.
 For example:
 
 > Bakemonogatari E15 spoilers ||Hanekawa is best girl.||
@@ -39,7 +39,7 @@ Criteria for nicknames on the server:
 - Your displayed name can't be obnoxiously long, containing unreadable characters or characters taking up half the screen.
 _ _
 
-**7** - Don’t advertise, and if in doubt, ask a mod or admin. **[Green]**
+**7** - Don't advertise, and if in doubt, ask a mod or admin. **[Green]**
 _ _
 **8** - All posts and messages in this server must follow the Discord terms of service (<https://discord.com/terms>) and the Discord guidelines (<https://discord.com/guidelines>). **[Yellow]**
     **8a** - No loli/shota porn. **[Red]**
@@ -66,7 +66,7 @@ _ _
 
 _ _
 
-__**Additional Rule for <#794267549831135252>**__
+__**Additional Rules for <#794267549831135252>**__
 
 **13** - Mudae is full of spoilers because of how it works so play at your own risk, but this isn't a reason to let loose:
 
@@ -81,7 +81,7 @@ Breaking these rules may result in an exemption from participating and a reset o
 
 _ _
 __**Additional information**__
-In cases where a warning is not warranted, or a warning by itself Isn’t enough, a staff member can mute members for a time period that they see fit, depending on the situation. Though, the member (in most cases) should have received a verbal warning beforehand. Members in some cases may not receive verbal warnings before a documented warning (e.g Rule 8)
+In cases where a warning is not warranted, or a warning by itself isn't enough, a staff member can mute members for a time period that they see fit, depending on the situation. Though, the member (in most cases) should have received a verbal warning beforehand. Members in some cases may not receive verbal warnings before a documented warning (e.g. Rule 8).
 
 In some cases, you may be warned in situations where your actions did not necessarily break the rules in their worded form. In these cases, staff is allowed to deal with you how they see accordingly. This applies to cases where members may try to loophole themselves out of getting warnings.
 If you believe you were wrongly warned, you may ask a staff member about your infraction, and if your argument is reasonable, the infraction may be removed, or further discussion may need to happen, in which case, the court channel will be used. This applies to bans too.

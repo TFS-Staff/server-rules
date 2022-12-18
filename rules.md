@@ -18,4 +18,4 @@
 
 10. All discussions in channels in the Meta category must be conducted seriously. Read the relevant channel topics for a better understanding of what is appropriate in those channels.
 
-These rules are a simplified version of our servers rules. For a more detailed account of the rules, and general information regarding the server, please read <#831949662290182206>.
+These rules are a simplified version of our server's rules. For a more detailed account of the rules, and general information regarding the server, please read <#831949662290182206>.

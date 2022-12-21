@@ -106,9 +106,9 @@ Different bans can happen depending on what type of rule a member breaks.
 *these are all after a member gains 12 points*
 _ _
 - **Permanent** or **6 months** for [Black]    -> depending on staff discussion: rejoining with 10/12 points
-- **6 months** for [Red]                                 -> rejoining with 6/12
-- **4 months** for [Yellow]                            -> rejoining with 4/12
-- **2 months** for [Green]                             -> rejoining with 2/12
+- **6 months** for [Red]                                   -> rejoining with 6/12
+- **4 months** for [Yellow]                              -> rejoining with 4/12
+- **2 months** for [Green]                               -> rejoining with 2/12
 _ _
 The length of the ban corresponds to the rule broken that's worth the highest amount of points. (e.g. If someone gets 3 warnings, resulting in 12 points, from a combination of a [Green], [Yellow] and [Red] rule, they'll receive a temporary ban of 6 months with 6/12 points when they rejoin.)
 _ _
